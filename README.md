@@ -12,4 +12,4 @@ This is a TIC TAC TOE game that approves the inputs with a "-" between the integ
 
 ...
 
-It gives two rounds of games and at the end winning situation.
+It gives two rounds of games and at the end determines the winning situation.
