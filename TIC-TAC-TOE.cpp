@@ -199,7 +199,7 @@ void PlayGame(string p1name, string p1sign, string p2name, string p2sign, int& p
 							game = false;
 						}
 						else if (p1sign == "O") {
-							cout << "Game Draw!";
+							cout << "Draw!";
 							game = false;
 						}
 					}
